@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 hola soy jorge
+=======
+>>>>>>> parent of 8474d54 (Update inicio.txt)
